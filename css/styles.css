@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  color: #2e2f42;
+  color: #434455;
   background-color: white;
 }
 
@@ -10,14 +10,17 @@ nav {
 }
 
 .logo {
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
 }
 
-.logo-web {
-  font-family: "Raleway", sans-serif;
-  color: #4d5ae5;
+.logo-studio {
+  color: #2e2f42;
 }
 
 .nav-menu {
@@ -64,7 +67,6 @@ ol {
 .hero-button {
   background-color: #4d5ae5;
   color: white;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   cursor: pointer;
   font-weight: 500;
   line-height: 1.5;
@@ -98,12 +100,6 @@ h3 {
     0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16),
     0 1px 6px 0 rgba(46, 47, 66, 0.08);
-}
-
-.portfolio-card-content {
-  border-bottom: 1px solid #e7e9fc;
-  border-left: 1px solid #e7e9fc;
-  border-right: 1px solid #e7e9fc;
 }
 
 p {
