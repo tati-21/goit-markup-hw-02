@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  color: #2e2f42;
+  background-color: white;
+}
+
+nav {
+  font-weight: 500;
+}
+
+.logo {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.hero-section {
+  background-color: #2e2f42;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 2%;
+  text-align: center;
+  color: white;
+}
+
+.hero-button {
+  background-color: #4d5ae5;
+  color: white;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 2%;
+  text-align: center;
+}
+
+h3 {
+  font-weight: medium;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
