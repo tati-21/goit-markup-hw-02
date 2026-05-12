@@ -104,6 +104,12 @@ ol {
   background-color: #f4f4fd;
 }
 
+.team-section .section-title {
+  line-height: 1.11;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
 .team-card {
   background-color: white;
   box-shadow:
