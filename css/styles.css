@@ -135,6 +135,10 @@ ol {
   background-color: #2e2f42;
 }
 
-.footer > p {
+.footer .logo-studio {
+  color: #f4f4fd;
+}
+
+.footer > .footer-text {
   color: inherit;
 }
